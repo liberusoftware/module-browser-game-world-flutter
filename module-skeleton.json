@@ -1,0 +1,15 @@
+{
+  "repository": "module-browser-game-world-flutter",
+  "capabilityKey": "liberusoftware/module-browser-game-world",
+  "presentation": "mobile-flutter",
+  "package": "module_browser_game_world_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/browser-game/nextjs/world.md",
+  "presentationPlan": "projects/browser-game/flutter/world.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "browser-game"
+  ]
+}
